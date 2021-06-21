@@ -1,0 +1,8 @@
+url: https://easydiffraction.org
+title: Making diffraction data analysis and modelling easy
+description: >-
+  An intuitive and user-friendly application for simulation of diffraction
+  patterns based on structural models and refinement against experimental data.
+release:
+  version: 0.8.1-beta
+  date: 2021-06-08

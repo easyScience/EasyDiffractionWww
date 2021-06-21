@@ -1,0 +1,82 @@
+hero:
+  title: Making _diffraction_ data analysis and modelling _easy_
+  description: >-
+    An intuitive and user-friendly application which integrates multiple popular
+    crystallographic libraries such as
+    [CrysPy](https://github.com/ikibalin/cryspy),
+    [CrysFML](https://code.ill.fr/scientific-software/crysfml) and
+    [GSAS-II](https://subversion.xray.aps.anl.gov/trac/pyGSAS). Allowing for the
+    simulation of diffraction patterns based on structural models and refinement
+    against experimental data.
+  downloads:
+    - icon: icon-windows
+      os: Windows
+      url: https://github.com/easyscience/easydiffractionapp/releases/download/v0.8.1-beta/easydiffraction_Windows_x86-32_v0.8.1-beta.zip
+    - icon: icon-apple
+      os: macOS
+      url: https://github.com/easyscience/easydiffractionapp/releases/download/v0.8.1-beta/easydiffraction_macOS_x86-64_v0.8.1-beta.zip
+    - icon: icon-ubuntu
+      os: Ubuntu
+      url: https://github.com/easyscience/easydiffractionapp/releases/download/v0.8.1-beta/easydiffraction_Linux_x86-64_v0.8.1-beta.zip
+  poster: assets/img/hero_light.png
+  videos:
+    - video: assets/video/hero.webm
+    - video: assets/video/hero.ogg
+    - video: assets/video/hero.mp4
+
+features:
+  - icon: icon-open-source
+    title: Free and open-source
+    description: >-
+      Anyone is free to use **easyDiffraction** and the source code is openly shared
+      on GitHub.
+  - icon: icon-cross-platform
+    title: Cross-platform
+    description: >-
+      **easyDiffraction** works across operating systems: macOS, Windows, or Linux.
+  - icon: fas fa-thumbs-up
+    title: Easy to use
+    description: >-
+      Intuitive tabbed interface with a clear workflow, built-in step-by-step user
+      guides and video tutorials help speed up data modelling and analysis.
+  - icon: icon-delivery-package
+    title: Everything is included
+    description: >-
+      **easyDiffraction** is distributed as an all-in-one package that includes all
+      the dependencies and can be installed with only a few clicks.
+  - icon: icon-swiss-knife
+    title: Multi-functional
+    description: >-
+      **easyDiffraction** integrates existing crystallographic libraries, such as
+      CrysPy, CrysFML (experimental) and GSAS-II (experimental), to cover
+      different functionality.
+  - icon: fas fa-boxes
+    title: Various techniques
+    description: >-
+      We started with 1D neutron powder diffraction at constant wavelength.
+      Single-crystal, 2D, Time-of-Flight, and so on, will be added later.
+  - icon: fas fa-sync-alt
+    title: Live update of calculations
+    description: >-
+      You can modify any parameter manually or with a sidebar slider, and the
+      simulated model curve is automatically recalculated in real time.
+  - icon: fas fa-user
+    title: Human-readable syntax
+    description: >-
+      Input/output files are in simple and human-readable data format STAR/CIF
+      with the specifications of International Union of Crystallography, where
+      possible.
+
+contact:
+  - icon: fas fa-question-circle
+    title: General questions
+    description: >-
+      For general questions or comments, please contact us at
+      [support@easydiffraction.org](mailto:support@easydiffraction.org), or fill
+      out the form.
+  - icon: fas fa-bug
+    title: Issues and new features
+    description: >-
+      For bug reports and feature requests, please use
+      [GitHub Issue Tracker](https://github.com/easyscience/easydiffractionapp/issues)
+      instead (free registration required).
