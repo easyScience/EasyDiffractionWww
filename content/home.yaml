@@ -9,10 +9,10 @@ hero:
     simulation of diffraction patterns based on structural models and refinement
     against experimental data.
   downloads:
-    - icon: icon-windows
+    - icon: fab fa-windows
       os: Windows
       url: https://github.com/easyscience/easydiffractionapp/releases/download/v0.8.1-beta/easydiffraction_Windows_x86-32_v0.8.1-beta.zip
-    - icon: icon-apple
+    - icon: fab fa-apple
       os: macOS
       url: https://github.com/easyscience/easydiffractionapp/releases/download/v0.8.1-beta/easydiffraction_macOS_x86-64_v0.8.1-beta.zip
     - icon: icon-ubuntu
@@ -30,7 +30,7 @@ features:
     description: >-
       Anyone is free to use **easyDiffraction** and the source code is openly shared
       on GitHub.
-  - icon: icon-cross-platform
+  - icon: icon-multiple-devices
     title: Cross-platform
     description: >-
       **easyDiffraction** works across operating systems: macOS, Windows, or Linux.
@@ -39,12 +39,12 @@ features:
     description: >-
       Intuitive tabbed interface with a clear workflow, built-in step-by-step user
       guides and video tutorials help speed up data modelling and analysis.
-  - icon: icon-delivery-package
+  - icon: icon-package
     title: Everything is included
     description: >-
       **easyDiffraction** is distributed as an all-in-one package that includes all
       the dependencies and can be installed with only a few clicks.
-  - icon: icon-swiss-knife
+  - icon: icon-swiss-army-knife
     title: Multi-functional
     description: >-
       **easyDiffraction** integrates existing crystallographic libraries, such as

@@ -9,4 +9,4 @@ links:
   - url: https://raw.githubusercontent.com/easyscience/easydiffractionapp/master/LICENSE.md
     text: EULA
   - url: https://github.com/easyscience/easydiffractionapp
-    icon: icon-github
+    icon: fab fa-github
