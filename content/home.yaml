@@ -8,6 +8,9 @@ hero:
     [GSAS-II](https://subversion.xray.aps.anl.gov/trac/pyGSAS). Allowing for the
     simulation of diffraction patterns based on structural models and refinement
     against experimental data.
+  release:
+    version: 0.8.2-beta
+    date: 2021-10-05
   downloads:
     - icon: fab fa-windows
       os: Windows
