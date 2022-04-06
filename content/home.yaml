@@ -9,18 +9,18 @@ hero:
     simulation of diffraction patterns based on structural models and refinement
     against experimental data.
   release:
-    version: 0.8.2-beta
-    date: 2021-10-05
+    version: 0.8.3-beta
+    date: 2022-02-07
   downloads:
     - icon: fab fa-windows
       os: Windows
-      url: https://github.com/easyscience/easydiffractionapp/releases/download/v0.8.2-beta/easydiffraction_Windows_x86-32_v0.8.2-beta.zip
+      url: https://github.com/easyscience/easydiffractionapp/releases/download/v0.8.3-beta/easydiffraction_Windows_x86-32_v0.8.3-beta.zip
     - icon: fab fa-apple
       os: macOS
-      url: https://github.com/easyscience/easydiffractionapp/releases/download/v0.8.2-beta/easydiffraction_macOS_x86-64_v0.8.2-beta.zip
+      url: https://github.com/easyscience/easydiffractionapp/releases/download/v0.8.3-beta/easydiffraction_macOS_x86-64_v0.8.3-beta.zip
     - icon: icon-ubuntu
       os: Ubuntu
-      url: https://github.com/easyscience/easydiffractionapp/releases/download/v0.8.2-beta/easydiffraction_Linux_x86-64_v0.8.2-beta.zip
+      url: https://github.com/easyscience/easydiffractionapp/releases/download/v0.8.3-beta/easydiffraction_Linux_x86-64_v0.8.3-beta.zip
   poster: assets/img/hero_light.png
   videos:
     - video: assets/video/hero.webm
