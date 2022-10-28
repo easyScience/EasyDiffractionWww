@@ -72,6 +72,18 @@ features:
       with the specifications of International Union of Crystallography, where
       possible.
 
+documentation:
+  - icon: fas fa-books
+    title: Library
+    description: >-
+      The [EasyDiffraction library documentation](https://docs.easydiffraction.org/lib)
+      covers everything related to using EasyDiffraction as a python library.
+  - icon: fas fa-browser
+    title: Application
+    description: >-
+      The [EasyDiffraction application documentation](https://docs.easydiffraction.org/app)
+      is the place to see how to use EasyDiffraction graphical user interface.
+
 contact:
   - icon: fas fa-question-circle
     title: General questions
