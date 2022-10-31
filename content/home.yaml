@@ -73,12 +73,12 @@ features:
       possible.
 
 documentation:
-  - icon: fas fa-books
+  - icon: fas fa-book
     title: Library
     description: >-
       The [EasyDiffraction library documentation](https://docs.easydiffraction.org/lib)
       covers everything related to using EasyDiffraction as a python library.
-  - icon: fas fa-browser
+  - icon: fa-solid fa-window-maximize
     title: Application
     description: >-
       The [EasyDiffraction application documentation](https://docs.easydiffraction.org/app)
