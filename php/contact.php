@@ -48,7 +48,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   if ($res['success'] == true && $res['score'] >= 0.5) {
 
     # Recipient email
-    $mail_to = "contact@easyscience.software";
+    $mail_to = "support@easydiffraction.org";
 
     # Sender form data
     $name = str_replace(array("\r","\n"), array(" "," "), strip_tags(trim($_POST["name"])));
