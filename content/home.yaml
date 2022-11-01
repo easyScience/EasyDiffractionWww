@@ -21,7 +21,7 @@ hero:
     - icon: icon-ubuntu
       os: Ubuntu
       url: https://github.com/easyScience/easyDiffractionApp/releases/download/v0.8.4-beta/EasyDiffraction_Linux_x64_v0.8.4-beta.zip
-  poster: assets/img/hero_light.png
+  poster: assets/img/hero_lightmode.png
   videos:
     - video: assets/video/hero.webm
     - video: assets/video/hero.ogg
