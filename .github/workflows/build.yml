@@ -48,7 +48,7 @@ jobs:
 
       - name: Change email in contact.php
         working-directory: ../EasySite
-        run: node_modules/replace-in-file/bin/cli.js contact@EasyScience.software ${{ env.PROJECT_EMAIL }} public/php/contact.php
+        run: node_modules/replace-in-file/bin/cli.js contact@easyscience.software ${{ env.PROJECT_EMAIL }} public/php/contact.php
 
       - name: Copy built site to default working directory
         working-directory: ..
