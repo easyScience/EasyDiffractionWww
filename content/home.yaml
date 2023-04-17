@@ -3,24 +3,30 @@ hero:
   description: >-
     An intuitive and user-friendly application which integrates multiple popular
     crystallographic libraries such as
-    [CrysPy](https://github.com/ikibalin/cryspy),
-    [CrysFML](https://code.ill.fr/scientific-software/crysfml) and
-    [GSAS-II](https://subversion.xray.aps.anl.gov/trac/pyGSAS). Allowing for the
+    [CrysPy](https://github.com/ikibalin/cryspy) and
+    [CrysFML](https://code.ill.fr/scientific-software/crysfml). Allowing for the
     simulation of diffraction patterns based on structural models and refinement
     against experimental data.
   release:
-    version: 0.8.4-beta
-    date: 2022-07-28
+    version: 0.8.5-beta
+    date: 2022-03-30
   downloads:
     - icon: fab fa-windows
-      os: Windows
-      url: https://github.com/easyScience/easyDiffractionApp/releases/download/v0.8.4-beta/EasyDiffraction_Windows_x64_v0.8.4-beta.zip
+      top: Download for
+      bottom: Windows
+      url: https://github.com/easyScience/easyDiffractionApp/releases/download/v0.8.5-beta/EasyDiffraction_Windows_x64_v0.8.5-beta.zip
     - icon: fab fa-apple
-      os: macOS
-      url: https://github.com/easyScience/easyDiffractionApp/releases/download/v0.8.4-beta/EasyDiffraction_macOS_x64_v0.8.4-beta.zip
+      top: Download for
+      bottom: macOS
+      url: https://github.com/easyScience/easyDiffractionApp/releases/download/v0.8.5-beta/EasyDiffraction_macOS_x64_v0.8.5-beta.zip
     - icon: icon-ubuntu
-      os: Ubuntu
-      url: https://github.com/easyScience/easyDiffractionApp/releases/download/v0.8.4-beta/EasyDiffraction_Linux_x64_v0.8.4-beta.zip
+      top: Download for
+      bottom: Ubuntu
+      url: https://github.com/easyScience/easyDiffractionApp/releases/download/v0.8.5-beta/EasyDiffraction_Linux_x64_v0.8.5-beta.zip
+    - icon: icon-snapcraft
+      top: Get it from the
+      bottom: Snap Store
+      url: https://snapcraft.io/easydiffraction
   source: https://docs.easydiffraction.org/app/getting-started.html#installation-from-source
   poster: assets/img/hero_lightmode.png
   videos:
@@ -53,8 +59,7 @@ features:
     title: Multi-functional
     description: >-
       **EasyDiffraction** integrates existing crystallographic libraries, such
-      as CrysPy, CrysFML (experimental) and GSAS-II (experimental), to cover
-      different functionality.
+      as CrysPy and CrysFML (experimental), to cover different functionality.
   - icon: fas fa-boxes
     title: Various techniques
     description: >-
