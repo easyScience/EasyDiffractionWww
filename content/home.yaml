@@ -8,21 +8,25 @@ hero:
     Allowing for the simulation of diffraction patterns based on structural
     models and refinement against experimental data.
   release:
-    version: 0.9.0-pre-alpha1
-    date: 2023-08-16
+    version: 0.9.0-alpha3
+    date: 2023-08-25
   downloads:
     - icon: fab fa-windows
       top: Download for
       bottom: Windows
-      url: https://github.com/easyScience/easyDiffractionApp/releases/download/v0.9.0-pre-alpha1/EasyDiffraction_v0.9.0-pre-alpha1_windows-2022_release-0.9.0.zip
+      url: https://github.com/easyScience/EasyDiffractionBeta/releases/download/v0.9.0-alpha3/EasyDiffraction_v0.9.0-alpha3_Windows.zip
     - icon: fab fa-apple
       top: Download for
       bottom: macOS
-      url: https://github.com/easyScience/easyDiffractionApp/releases/download/v0.9.0-pre-alpha1/EasyDiffraction_v0.9.0-pre-alpha1_macos-12_release-0.9.0.zip
+      url: https://github.com/easyScience/EasyDiffractionBeta/releases/download/v0.9.0-alpha3/EasyDiffraction_v0.9.0-alpha3_macOS.zip
     - icon: icon-ubuntu
       top: Download for
       bottom: Ubuntu
-      url: https://github.com/easyScience/easyDiffractionApp/releases/download/v0.9.0-pre-alpha1/EasyDiffraction_v0.9.0-pre-alpha1_ubuntu-20.04_release-0.9.0.zip
+      url: https://github.com/easyScience/EasyDiffractionBeta/releases/download/v0.9.0-alpha3/EasyDiffraction_v0.9.0-alpha3_Linux.zip
+    - icon: icon-snapcraft
+      top: Get it from the
+      bottom: Snap Store
+      url: https://snapcraft.io/easydiffraction
   source: https://docs.easydiffraction.org/app/installation/from-source/
   poster: assets/img/hero_lightmode.png
   videos:
@@ -59,9 +63,9 @@ features:
   - icon: fas fa-boxes
     title: Various techniques
     description: >-
-      Currently, we support constant wavelength (CW) 1D neutron and X-ray powder
-      diffraction data. Time-of-flight (TOF), polarized neutrons, single-crystal,
-      2D, and so on, will be added later.
+      Currently, we partially support constant wavelength (CW) 1D neutron and
+      X-ray powder diffraction data. Time-of-flight (TOF), polarized neutrons,
+      single-crystal, 2D, and so on, will be added later.
   - icon: fas fa-sync-alt
     title: Live update of calculations
     description: >-
