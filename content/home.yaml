@@ -8,21 +8,21 @@ hero:
     Allowing for the simulation of diffraction patterns based on structural
     models and refinement against experimental data.
   release:
-    version: 0.9.0-alpha5
-    date: 2023-09-05
+    version: 0.9.0-alpha6
+    date: 2023-09-12
   downloads:
     - icon: fab fa-windows
       top: Download for
       bottom: Windows
-      url: https://github.com/easyScience/EasyDiffractionBeta/releases/download/v0.9.0-alpha5/EasyDiffraction_v0.9.0-alpha5_Windows.zip
+      url: https://github.com/easyScience/EasyDiffractionBeta/releases/download/v0.9.0-alpha6/EasyDiffraction_v0.9.0-alpha6_Windows.zip
     - icon: fab fa-apple
       top: Download for
       bottom: macOS
-      url: https://github.com/easyScience/EasyDiffractionBeta/releases/download/v0.9.0-alpha5/EasyDiffraction_v0.9.0-alpha5_macOS.zip
+      url: https://github.com/easyScience/EasyDiffractionBeta/releases/download/v0.9.0-alpha6/EasyDiffraction_v0.9.0-alpha6_macOS.zip
     - icon: icon-ubuntu
       top: Download for
       bottom: Ubuntu
-      url: https://github.com/easyScience/EasyDiffractionBeta/releases/download/v0.9.0-alpha5/EasyDiffraction_v0.9.0-alpha5_Linux.zip
+      url: https://github.com/easyScience/EasyDiffractionBeta/releases/download/v0.9.0-alpha6/EasyDiffraction_v0.9.0-alpha6_Linux.zip
     - icon: icon-snapcraft
       top: Get it from the
       bottom: Snap Store
@@ -79,16 +79,16 @@ features:
       possible.
 
 documentation:
-  - icon: fas fa-book
-    title: Library
-    description: >-
-      The [EasyDiffraction library documentation](https://docs.easydiffraction.org/lib)
-      covers everything related to using EasyDiffraction as a python library.
   - icon: fa-solid fa-window-maximize
     title: Application
     description: >-
       The [EasyDiffraction application documentation](https://docs.easydiffraction.org/app)
       is the place to see how to use EasyDiffraction graphical user interface.
+  - icon: fas fa-book
+    title: Library
+    description: >-
+      The [EasyDiffraction library documentation](https://docs.easydiffraction.org/lib)
+      covers everything related to using EasyDiffraction as a python library.
 
 contact:
   - icon: fas fa-question-circle
