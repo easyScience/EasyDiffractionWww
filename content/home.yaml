@@ -8,21 +8,21 @@ hero:
     Allowing for the simulation of diffraction patterns based on structural
     models and refinement against experimental data.
   release:
-    version: 0.9.0-alpha8
-    date: 2023-09-22
+    version: 0.9.0-alpha9
+    date: 2023-10-05
   downloads:
     - icon: fab fa-windows
       top: Download for
       bottom: Windows
-      url: https://github.com/easyScience/EasyDiffractionBeta/releases/download/v0.9.0-alpha8/EasyDiffraction_v0.9.0-alpha8_Windows.zip
+      url: https://github.com/easyScience/EasyDiffractionBeta/releases/download/v0.9.0-alpha9/EasyDiffraction_v0.9.0-alpha9_Windows.zip
     - icon: fab fa-apple
       top: Download for
       bottom: macOS
-      url: https://github.com/easyScience/EasyDiffractionBeta/releases/download/v0.9.0-alpha8/EasyDiffraction_v0.9.0-alpha8_macOS.zip
+      url: https://github.com/easyScience/EasyDiffractionBeta/releases/download/v0.9.0-alpha9/EasyDiffraction_v0.9.0-alpha9_macOS-Intel.zip
     - icon: icon-ubuntu
       top: Download for
       bottom: Ubuntu
-      url: https://github.com/easyScience/EasyDiffractionBeta/releases/download/v0.9.0-alpha8/EasyDiffraction_v0.9.0-alpha8_Linux.zip
+      url: https://github.com/easyScience/EasyDiffractionBeta/releases/download/v0.9.0-alpha9/EasyDiffraction_v0.9.0-alpha9_Linux.zip
     - icon: icon-snapcraft
       top: Get it from the
       bottom: Snap Store
