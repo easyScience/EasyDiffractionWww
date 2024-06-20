@@ -8,29 +8,29 @@ hero:
     Allowing for the simulation of diffraction patterns based on structural
     models and refinement against experimental data.
   release:
-    version: 0.9.1a0
-    date: 2024-05-29
+    version: 0.9.2
+    date: 2024-06-20
   downloads:
     - icon: fab fa-windows
       top: Download for
       bottom: Windows
       details: 10 and above
-      url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v0.9.1a0/EasyDiffraction_v0.9.1a0_windows-2022.zip
+      url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v0.9.2/EasyDiffraction_v0.9.2_windows-2022.zip
     - icon: fab fa-apple
       top: Download for
       bottom: macOS
       details: Intel
-      url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v0.9.1a0/EasyDiffraction_v0.9.1a0_macos-13-Intel.zip
+      url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v0.9.2/EasyDiffraction_v0.9.2_macos-13-Intel.zip
     - icon: fab fa-apple
       top: Download for
       bottom: macOS
       details: Apple Silicon
-      url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v0.9.1a0/EasyDiffraction_v0.9.1a0_macos-14-AppleSilicon.zip
+      url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v0.9.2/EasyDiffraction_v0.9.2_macos-14-AppleSilicon.zip
     - icon: icon-ubuntu
       top: Download for
       bottom: Ubuntu
       details: 22.04 and above
-      url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v0.9.1a0/EasyDiffraction_v0.9.1a0_ubuntu-22.04.zip
+      url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v0.9.2/EasyDiffraction_v0.9.2_ubuntu-22.04.zip
     - icon: icon-snapcraft
       top: Get it from the
       bottom: Snap Store
