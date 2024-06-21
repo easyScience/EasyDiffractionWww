@@ -4,9 +4,9 @@ project:
   url: https://easydiffraction.org
   year: 2024
 links:
-  - url: https://github.com/easyscience/easydiffractionapp/releases
+  - url: https://github.com/easyscience/easydiffractionbeta/releases
     text: Release Notes
-  - url: https://raw.githubusercontent.com/easyscience/easydiffractionapp/master/LICENSE.md
+  - url: https://raw.githubusercontent.com/easyscience/easydiffractionbeta/master/LICENSE.md
     text: EULA
-  - url: https://github.com/easyscience/easydiffractionapp
+  - url: https://github.com/easyscience/easydiffractionbeta
     icon: fab fa-github
