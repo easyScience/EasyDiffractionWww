@@ -7,36 +7,6 @@ hero:
     [CrysFML](https://code.ill.fr/scientific-software/crysfml) (experimental).
     Allowing for the simulation of diffraction patterns based on structural
     models and refinement against experimental data.
-  release:
-    version: 0.9.2
-    date: 2024-06-20
-  downloads:
-    - icon: fab fa-windows
-      top: Download for
-      bottom: Windows
-      details: 10 and above
-      url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v0.9.2/EasyDiffraction_v0.9.2_windows-2022.zip
-    - icon: fab fa-apple
-      top: Download for
-      bottom: macOS
-      details: Intel
-      url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v0.9.2/EasyDiffraction_v0.9.2_macos-13-Intel.zip
-    - icon: fab fa-apple
-      top: Download for
-      bottom: macOS
-      details: Apple Silicon
-      url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v0.9.2/EasyDiffraction_v0.9.2_macos-14-AppleSilicon.zip
-    - icon: icon-ubuntu
-      top: Download for
-      bottom: Ubuntu
-      details: 22.04 and above
-      url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v0.9.2/EasyDiffraction_v0.9.2_ubuntu-22.04.zip
-    - icon: icon-snapcraft
-      top: Get it from the
-      bottom: Snap Store
-      details: Many Linux Distros
-      url: https://snapcraft.io/easydiffraction
-  source: https://docs.easydiffraction.org/app/installation/from-source/
   poster: assets/img/hero_lightmode.png
   videos:
     - video: assets/video/hero.webm
@@ -98,6 +68,38 @@ documentation:
     description: >-
       The [EasyDiffraction library documentation](https://docs.easydiffraction.org/lib)
       covers everything related to using EasyDiffraction as a python library.
+
+download:
+  - icon: fab fa-windows
+    top: Download for
+    bottom: Windows
+    details: Windows 10＋
+    url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v$RELEASE_VERSION/EasyDiffraction_v$RELEASE_VERSION_windows-2022.zip
+  - icon: fab fa-apple
+    top: Download for
+    bottom: macOS
+    details: macOS 13, Intel
+    url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v$RELEASE_VERSION/EasyDiffraction_v$RELEASE_VERSION_macos-13-Intel.zip
+  - icon: fab fa-apple
+    top: Download for
+    bottom: macOS
+    details: macOS 14＋, Apple Silicon
+    url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v$RELEASE_VERSION/EasyDiffraction_v$RELEASE_VERSION_macos-14-AppleSilicon.zip
+  - icon: icon-ubuntu
+    top: Download for
+    bottom: Ubuntu
+    details: Ubuntu 22.04＋
+    url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v$RELEASE_VERSION/EasyDiffraction_v$RELEASE_VERSION_ubuntu-22.04.zip
+  - icon: icon-snapcraft
+    top: Get it from the
+    bottom: Snap Store
+    details: Many Linux Distros
+    url: https://snapcraft.io/easydiffraction
+  - icon: fab fa-github
+    top: Run it from
+    bottom: source
+    details: Requires Python
+    url: https://docs.easydiffraction.org/app/installation/from-source
 
 contact:
   - icon: fas fa-question-circle
