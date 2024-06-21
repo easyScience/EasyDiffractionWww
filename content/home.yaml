@@ -70,21 +70,21 @@ documentation:
       covers everything related to using EasyDiffraction as a python library.
 
 download:
-  - icon: fab fa-windows
-    top: Download for
-    bottom: Windows
-    details: Windows 10＋
-    url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v$RELEASE_VERSION/EasyDiffraction_v$RELEASE_VERSION_windows-2022.zip
-  - icon: fab fa-apple
-    top: Download for
-    bottom: macOS
-    details: macOS 13, Intel
-    url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v$RELEASE_VERSION/EasyDiffraction_v$RELEASE_VERSION_macos-13-Intel.zip
   - icon: fab fa-apple
     top: Download for
     bottom: macOS
     details: macOS 14＋, Apple Silicon
     url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v$RELEASE_VERSION/EasyDiffraction_v$RELEASE_VERSION_macos-14-AppleSilicon.zip
+  - icon: fab fa-apple
+    top: Download for
+    bottom: macOS
+    details: macOS 13, Intel
+    url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v$RELEASE_VERSION/EasyDiffraction_v$RELEASE_VERSION_macos-13-Intel.zip
+  - icon: fab fa-windows
+    top: Download for
+    bottom: Windows
+    details: Windows 10＋
+    url: https://github.com/EasyScience/EasyDiffractionBeta/releases/download/v$RELEASE_VERSION/EasyDiffraction_v$RELEASE_VERSION_windows-2022.zip
   - icon: icon-ubuntu
     top: Download for
     bottom: Ubuntu
@@ -93,12 +93,12 @@ download:
   - icon: icon-snapcraft
     top: Get it from the
     bottom: Snap Store
-    details: Many Linux Distros
+    details: Most Linux Distributions
     url: https://snapcraft.io/easydiffraction
   - icon: fab fa-github
     top: Run it from
     bottom: source
-    details: Requires Python
+    details: Multi-platform, Python
     url: https://docs.easydiffraction.org/app/installation/from-source
 
 contact:
