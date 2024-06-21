@@ -3,7 +3,7 @@
 ##
  
 - Content: `develop` and `master` branches.
-- Build: `public_develop` and `public_master` branches.
+- Build: `public_develop` and `public_master` branches. 
 
 <!---URLs--->
 
