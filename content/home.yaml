@@ -42,9 +42,9 @@ features:
   - icon: fas fa-boxes
     title: Various techniques
     description: >-
-      Currently, we partially support constant wavelength (CW) 1D neutron and
-      X-ray powder diffraction data. Time-of-flight (TOF), polarized neutrons,
-      single-crystal, 2D, and so on, will be added later.
+      Currently, we partially support 1D time-of-flight (TOF) and constant
+      wavelength (CWL) neutron and X-ray powder diffraction data. More features
+      will be added later.
   - icon: fas fa-sync-alt
     title: Live update of calculations
     description: >-
