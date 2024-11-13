@@ -101,6 +101,9 @@ download:
     details: Multi-platform, Python
     url: https://docs.easydiffraction.org/app/installation/from-source
 
+install:
+  pip: pip install easydiffraction
+
 contact:
   - icon: fas fa-question-circle
     title: General questions
